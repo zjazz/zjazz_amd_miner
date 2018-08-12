@@ -1,2 +1,2 @@
-# zjazz_amd
+# zjazz AMD miner
 zjazz miner for AMD cards
