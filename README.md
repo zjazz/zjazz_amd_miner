@@ -2,19 +2,27 @@
 
 This is a miner for AMD GPUs.
 
-Current release is available for Windows. A Linux release will be released soon.
+Current release is available for Windows. A Linux version will be released soon.
 
 ### Devfee ###
 
-0% devfee for now! In future releases a small devfee might be added.
+1% devfee.
 
 ### Algorithms / Hashrates ###
 
 Phi2 is the only algorithm supported at this moment.
 
-|          | RX480 | RX570     | RX580     | Vega64 |
-| -------- | ----- | --------- | --------- | ------ |
-| **phi2** |       | 1100 kH/s | 1300 kH/s |        |
+Lastest version:
+
+|          | RX570 | RX580     | Vega56 | Vega64 |
+| -------- | ----- | --------- | ------ | ------ |
+| **phi2** | ????? | 1570 kH/s | ?????  | ????   |
+
+Old version:
+
+|          | RX570     | RX580     | Vega56    | Vega64    |
+| -------- | --------- | --------- | --------- | --------- |
+| **phi2** | 1100 kH/s | 1300 kH/s | 2310 kH/s | 3000 kH/s |
 
 ### Usage ###
 
@@ -30,15 +38,13 @@ For a complete list of options, add --help to command line arguments list.
   * Radeon E9550
   * Radeon Pro V7300X
   * Radeon Pro V7350x2
-  * Radeon Pro WX 7100 Graphics
-  * Radeon Pro WX 5100 Graphics
-  * Radeon Pro WX 7100 Graphics
+  * Radeon Pro WX 7100
+  * Radeon Pro WX 5100
 
 
 * gfx900 (Vega) family
   * Radeon RX Vega 56
   * Radeon RX Vega 64
-  * Radeon Instinct MI25 MxGPU
   * Radeon Instinct MI25
   * Radeon Vega Frontier Edition
 
