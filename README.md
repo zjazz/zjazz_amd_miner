@@ -12,7 +12,7 @@ Current release is available for Windows. A Linux version will be released soon.
 
 Phi2 is the only algorithm supported at this moment.
 
-Lastest version:
+Latest version:
 
 |          | RX570 | RX580     | Vega56 | Vega64    |
 | -------- | ----- | --------- | ------ | --------- |
