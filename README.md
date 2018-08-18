@@ -14,9 +14,9 @@ Phi2 is the only algorithm supported at this moment.
 
 Lastest version:
 
-|          | RX570 | RX580     | Vega56    | Vega64 |
-| -------- | ----- | --------- | --------- | ------ |
-| **phi2** | ????? | 1570 kH/s | 3200 kH/s | ????   |
+|          | RX570 | RX580     | Vega56 | Vega64    |
+| -------- | ----- | --------- | ------ | --------- |
+| **phi2** | ????? | 1570 kH/s | ?????  | 3600 kH/s |
 
 Old version:
 
