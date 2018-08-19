@@ -16,17 +16,15 @@ Discord channel: https://discord.gg/FRUVSJT
 
 Phi2 is the only algorithm supported at this moment.
 
-Latest version:
-
-|          | RX570     | RX580     | Vega56    | Vega64    |
-| -------- | --------- | --------- | --------- | --------- |
-| **phi2** | 1320 kH/s | 1570 kH/s | 2770 kH/s | 3600 kH/s |
+| v0.92 (new!) | RX570     | RX580     | Vega56    | Vega64    |
+| ------------ | --------- | --------- | --------- | --------- |
+| **phi2**     | 1320 kH/s | 1570 kH/s | 2770 kH/s | 3600 kH/s |
 
 Old version:
 
-|          | RX570     | RX580     | Vega56    | Vega64    |
-| -------- | --------- | --------- | --------- | --------- |
-| **phi2** | 1100 kH/s | 1300 kH/s | 2310 kH/s | 3000 kH/s |
+| v0.91 (old) | RX570     | RX580     | Vega56    | Vega64    |
+| ----------- | --------- | --------- | --------- | --------- |
+| **phi2**    | 1100 kH/s | 1300 kH/s | 2310 kH/s | 3000 kH/s |
 
 ### Usage ###
 
