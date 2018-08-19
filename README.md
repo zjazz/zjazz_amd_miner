@@ -4,19 +4,23 @@ This is a miner for AMD GPUs.
 
 Current release is available for Windows. A Linux version will be released soon.
 
-### Devfee ###
+### Support/Contact ###
+
+Discord channel: https://discord.gg/FRUVSJT
+
+### Devfee
 
 1% devfee.
 
-### Algorithms / Hashrates ###
+### Algorithms / Hashrates
 
 Phi2 is the only algorithm supported at this moment.
 
 Latest version:
 
-|          | RX570 | RX580     | Vega56 | Vega64    |
-| -------- | ----- | --------- | ------ | --------- |
-| **phi2** | ????? | 1570 kH/s | ?????  | 3600 kH/s |
+|          | RX570     | RX580     | Vega56    | Vega64    |
+| -------- | --------- | --------- | --------- | --------- |
+| **phi2** | 1320 kH/s | 1570 kH/s | 2770 kH/s | 3600 kH/s |
 
 Old version:
 
