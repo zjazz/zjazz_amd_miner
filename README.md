@@ -2,29 +2,19 @@
 
 This is a miner for AMD GPUs.
 
-Current release is available for Windows. A Linux version will be released soon.
+Current release is available for Windows.
 
 ### Support/Contact ###
 
 Discord channel: https://discord.gg/FRUVSJT
 
-### Devfee
+### Devfee ###
 
-1% devfee.
+2% devfee.
 
-### Algorithms / Hashrates
+### Algorithms ###
 
-Phi2 is the only algorithm supported at this moment.
-
-| v0.92 (new!) | RX570     | RX580     | Vega56    | Vega64    |
-| ------------ | --------- | --------- | --------- | --------- |
-| **phi2**     | 1320 kH/s | 1570 kH/s | 2770 kH/s | 3600 kH/s |
-
-Old version:
-
-| v0.91 (old) | RX570     | RX580     | Vega56    | Vega64    |
-| ----------- | --------- | --------- | --------- | --------- |
-| **phi2**    | 1100 kH/s | 1300 kH/s | 2310 kH/s | 3000 kH/s |
+X22i is the only algorithm supported at this moment.
 
 ### Usage ###
 
@@ -44,11 +34,43 @@ For a complete list of options, add --help to command line arguments list.
   * Radeon Pro WX 5100
 
 
-* gfx900 (Vega) family
+* gfx900 family
   * Radeon RX Vega 56
   * Radeon RX Vega 64
   * Radeon Instinct MI25
   * Radeon Vega Frontier Edition
+
+* Baffin family
+
+  * Radeon E9260
+  * Radeon Pro 450
+  * Radeon Pro 455
+  * Radeon Pro 460
+  * Radeon Pro 465
+  * Radeon Pro V5300X
+  * Radeon Pro WX 4100
+  * Radeon Pro WX
+  * Radeon RX 550
+  * Radeon RX 560
+  * Radeon RX 460
+
+
+* Fiji family
+  * FirePro S9300 x2
+  * Radeon R9 Fury
+  * Radeon Pro Duo
+  * Radeon Pro SSG
+
+
+* Tonga family
+
+  * FirePro S7100X
+  * FirePro S7150
+  * FirePro W7100
+  * Radeon R9 M390X
+  * Radeon R9 M395X
+  * Radeon R9 380
+  * Radeon R9 200
 
 ### License ###
 
@@ -64,5 +86,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Donations ###
 
-LUX: LKTj16Gy6VRrYoQVozNNJLANSKMzpyuKTB
+BTC: 1Fx8QDdyFJt3NWLkuKeBvsv4nNrFTNK9X7
+
 
